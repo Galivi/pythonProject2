@@ -69,7 +69,7 @@ for i in countries:
         ab= '나라'
 
 
-
+dd
 print(an, '는', ab, '입니다.')
 
 
