@@ -68,8 +68,6 @@ for i in countries:
     if an == i:
         ab= '나라'
 
-
-dd
 print(an, '는', ab, '입니다.')
 
 
